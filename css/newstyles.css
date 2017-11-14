@@ -1,0 +1,24 @@
+h1 {
+  color: black;
+  font-style: normal;
+}
+
+h2 {
+  font-style: oblique;
+  text-align: left;
+}
+
+p {
+  font-family: Arial;
+  font-weight: light;
+}
+
+ul {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+img {
+  border-width: 10px;
+  border-color: black;
+}
